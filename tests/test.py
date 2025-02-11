@@ -16,6 +16,11 @@ class BasicTests(unittest.TestCase):
         self.assertEqual(result.status_code, 200)
         self.assertEqual(result.data.decode(), "Hello, World!")
 
+    def test_pecorino(self):
+        result = self.app.get('/pecorino')
+
+        self.assertEqual(result.status_code, 200)
+        self.assertEqual(result.data.decode(), "Hello, Pecorino")
 
 if __name__ == "__main__":
     unittest.main()
