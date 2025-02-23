@@ -55,4 +55,4 @@ Este comando ejecutará todos los tests que se encuentren en la carpeta `tests`.
 
 Aquí el pipeline de GitHub Actions sin errores
 
-![](Captura desde 2025-02-24 00-21-46.png)
+!()[Captura desde 2025-02-24 00-21-46.png]
