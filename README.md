@@ -52,3 +52,6 @@ python3 -m unittest tests/*.py
 Este comando ejecutará todos los tests que se encuentren en la carpeta `tests`.
 
 [1]: https://flask.palletsprojects.com/en/stable/
+
+Aquí el pipeline de GitHub Actions sin errores
+![Captura desde 2025-02-24 00-17-14](https://github.com/user-attachments/assets/ef985b8d-9820-4bbc-9584-c300e92804fc)
